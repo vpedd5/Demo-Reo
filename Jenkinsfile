@@ -1,7 +1,6 @@
 pipeline{
   agent any
   
-  {
     stages {
       stage('Helloworld'){
         steps{
@@ -11,6 +10,7 @@ pipeline{
       }
     }
   }
+
  
       
   
